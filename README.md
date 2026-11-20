@@ -152,5 +152,5 @@
 ## 📂 Recent Projects
 - [🔗](https://github.com/ruturaaj16/huffman_compressor.git) Huffman Text Compressor
 - [🔗](https://github.com/Eashan-10/Hospital-Patient-Queue) MediRoute: Intelligent Hospital Management System
-- [🔗]([https://github.com/ruturaaj16/huffman_compressor.git](https://github.com/adityapore07-cmyk/KeyGen_and_Verify)) RSA implementation using SymPy and PyCryptodome
+- [🔗](https://github.com/adityapore07-cmyk/KeyGen_and_Verify) RSA implementation using SymPy and PyCryptodome
 - [🔗](https://github.com/rndeshpande16/portfolio_builder_0.0.git) Portfolio Builder
