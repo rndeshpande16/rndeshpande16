@@ -130,25 +130,26 @@
 ## 🔧 Skills ( Add tech stack to skills )
 
 - **Python:**
-  - [🔗](https://leetcode.com/u/ruturaaj16/) Data Structures & Algorithms
-  - [🔗](https://leetcode.com/u/ruturaaj16/) NumPy, Pandas & Matplotlib
-  - [🔗](https://leetcode.com/u/ruturaaj16/) OpenCV
+  - Data Structures & Algorithms
+  - NumPy, Pandas & Matplotlib
+  - OpenCV
 
 - **JavaScript:**
-  - Vanilla JavaScript
-  - Vue.JS
-  - React.JS
-  - JQuery
+  - Frontend
+    - Vanilla JavaScript & JQuery
+    - Vue.JS & React.JS
+    - Chart.JS
+  - Backend
+    - Node.JS, Mongoose ODM, Express.JS
 
 - **Tools:**
-  - Git
-  - GitHub
-  - VS Code
-  - Linux (Ubuntu) / Unix
-  - Gemini & Antigravity
-  - Claude
+  - Git & GitHub
+  - Visual Studio Code
+  - Linux (Ubuntu) & Unix
+  - Gemini, Antigravity, and GitHub Copilot
+  - Claude, WisprFlow, and CodexAI
 
-## 📂 Recent Projects ( Make better projects )
+## 📂 Recent Projects
 - [🔗](https://github.com/ruturaaj16/huffman_compressor.git) Huffman Text Compressor
 - [🔗](https://github.com/Eashan-10/Hospital-Patient-Queue) MediRoute: Intelligent Hospital Management System
 - [🔗]([https://github.com/ruturaaj16/huffman_compressor.git](https://github.com/adityapore07-cmyk/KeyGen_and_Verify)) RSA implementation using SymPy and PyCryptodome
