@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Ruturaaj+Deshpande&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=pink&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hi,+I'm+Ruturaaj+Deshpande!&textBg=false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=pink&strokeWidth=0)
 
-<h2 align="center">AI/ML-focused undergrad at VJTI Mumbai | Python · ML · Security · Quant | Open to internships</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4000&pause=500&delay=500&color=95D9F7&center=true&vCenter=true&width=640&lines=IT+Undergrad+%40+VJTI+Mumbai;Winner+%40+VJTI%3A+CTF%2C+Debuggathon%2C+Pixel+Perfect;CP+Club+%40+VJTI+%7C+LeetCode+1570;XR+Club+%40+VJTI+%7C+Aspiring+Game+Developer;Interested+in+Quant+Finance;Open+Source+Contributor;Open+to+Internships+%7C+Summer+2027" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <!-- LinkedIn -->
